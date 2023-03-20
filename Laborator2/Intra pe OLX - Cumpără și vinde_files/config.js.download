@@ -1,0 +1,6 @@
+
+window[window["TiktokAnalyticsObject"]].instance("C4FS4K9CF95KKVVHNEE0").setAdvancedMatchingAvailableProperties({"email":true,"phone_number":true,"auto_email":false,"auto_phone_number":false});
+window[window["TiktokAnalyticsObject"]].instance("C4FS4K9CF95KKVVHNEE0").setPixelInfo && window[window["TiktokAnalyticsObject"]].instance("C4FS4K9CF95KKVVHNEE0").setPixelInfo({status: 0, name: "OLX.ro Pixel", advertiserID: "6998523782784630785", setupMode: 1, partner: "", is_onsite: false });
+window[window["TiktokAnalyticsObject"]].setPCMDomain && window[window["TiktokAnalyticsObject"]].setPCMDomain("olx.ro");
+window[window["TiktokAnalyticsObject"]].setPCMConfig && window[window["TiktokAnalyticsObject"]].setPCMConfig([]);
+window[window["TiktokAnalyticsObject"]].enableFirstPartyCookie && window[window["TiktokAnalyticsObject"]].enableFirstPartyCookie(true);
